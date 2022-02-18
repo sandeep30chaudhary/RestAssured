@@ -1,4 +1,4 @@
-package com.sabacloud.restapi;
+package com.src.restapi;
 
 import static org.junit.Assert.assertTrue;
 
